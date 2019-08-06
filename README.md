@@ -2,7 +2,7 @@
 
 ## Instructions to run each assignment
 
-1. Download Jupyter notebook
+1. Download Jupyter notebook from https://jupyter.org/install
 
 2. Clone the repo https://github.com/sudarshan19943/data_science_assignments
 
