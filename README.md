@@ -2,8 +2,11 @@
 
 ## Instructions to run each assignment
 
-Clone the repo https://github.com/sudarshan19943/data_science_assignments
-<br>All assignment questions are in the respective folders with the name Assignment*-questions.pdf where * represents the assignment number</br>
+1. Download Jupyter notebook
+
+2. Clone the repo https://github.com/sudarshan19943/data_science_assignments
+
+3. All assignment questions are in the respective folders with the name Assignment*-questions.pdf where * represents the assignment number
 
 ### Assignment 1: Zomato rating analysis on Bangalore Zomato restaurant data
 
